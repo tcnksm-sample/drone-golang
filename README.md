@@ -1,4 +1,4 @@
-Sample release from [Drone.io](https://drone.io/)
+Drone.io for golang
 ====
 
 [![Build Status](https://drone.io/github.com/tcnksm-sample/drone-golang/status.png)](https://drone.io/github.com/tcnksm-sample/drone-golang/latest)
